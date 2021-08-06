@@ -8,7 +8,7 @@ zeo is to putting all necessary documentation and material in this page, which w
 
 ## Other Consideration
 
-More help please contact my (http://zebralinetech.com "website") for more information.
+More help please contact 
 
 > more comment here `smile` `html` `C#` :smile:
 
